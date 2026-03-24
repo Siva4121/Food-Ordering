@@ -1,0 +1,137 @@
+/* * {
+    padding: 0;
+    margin: 0;
+
+    body {
+        background: #c5ac92;
+    }
+}
+
+.header {
+    background: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 2rem;
+
+}
+
+.logo {
+    background: #f4efef;
+    width: 7rem;
+    border-radius: 80%;
+}
+
+.navMenu {
+    display: flex;
+    font-size: 1.3rem;
+    gap: 4rem;
+    color: #f4efef;
+
+}
+
+.navMenu :Link {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+    color: #f4efef;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #534343;
+    transition: 0.4s;
+}
+
+.main {
+    margin: 20px;
+}
+
+.card {
+    background: #6a6a64;
+    width: 20vw;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: #f4efef;
+
+
+}
+
+.io {
+    width: 100%;
+    height: 35vh;
+}
+
+.sec {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 3rem;
+    justify-content: space-evenly;
+}
+
+#sinput {
+    font-size: 1rem;
+    padding: 7px;
+}
+.rc{
+    padding: 5vh 15vw;
+}
+.rt{
+    text-align: center;
+    padding-bottom: 5vh;
+    font-size: 1.5rem;
+}
+.rmc{
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+}
+.rmt{
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.8rem 1rem;
+    background: rgb(180, 217, 180);
+}
+.rm{
+    border-radius: 0.5rem;
+    background: rgb(168, 151, 151);
+}
+.mim{
+    width: 100%;
+    border-radius: 1rem;
+    height: 14vh;
+}
+.rmi{
+    display: flex;
+    padding: 1rem;
+    gap: 4rem;
+    justify-content: space-between;
+    border-radius: 2px solid gray;
+}
+.imc{
+    width: 15%;
+    display: flex;
+    justify-content: end;
+}
+.fn{
+    font-weight: bold;
+}
+.fde{
+    font-size: 0.8rem;
+    text-indent: 4rem;
+}
+.fd{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.ba{
+    position: absolute;
+} */
+
+@import "tailwindcss";
