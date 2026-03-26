@@ -46,7 +46,7 @@ function Body() {
         <div className="main flex justify-center">
             <input
                 className="p-2 mt-5 sm:mt-7 mb-5 sm:mb-6 border-2 border-gray-400 
-                w-[50%] sm:w-100 text-[16px] sm:text-[20px]
+                w-[90%] sm:w-100 text-[16px] sm:text-[20px]
                 transition duration-300
                 focus:shadow-[0_0_10px_#3b82f6] focus:border-black focus:outline-none"
                 placeholder="Enter Restaurent Name"
